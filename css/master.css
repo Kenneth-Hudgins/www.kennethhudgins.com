@@ -1,0 +1,190 @@
+body{
+background-color:#C3C7CB;
+/*font-size: 1.3em;*/
+}
+
+nav{
+  font-weight:bold;
+  font-family: Arial,verdana;
+}
+
+.container-fluid{
+  font-size:1em;
+}
+
+.navbar-brand{
+  color:rgba(255, 255, 255, 0.5) !important;
+  font-size:1.4em;
+  /*font-size: 2em;*/
+}
+
+.navbar{
+  min-height: 25px;
+  font-size:1.5em;
+  line-height: 1.5em;
+  /*font-size: 2.3em;*/
+}
+
+.navbar-brand:hover{
+    color:rgba(255, 255, 255, 0.75) !important;
+}
+
+.tc{
+  text-align: center !important;
+}
+
+.profile-pic{
+  width:98px;
+  height:98px;
+  border-radius: 50%;
+  display:block;
+  margin:0 auto;
+  margin-top: 5px !important;
+  margin-bottom: 5px;
+}
+
+.top-row{
+background-color:#9ea3a8;
+}
+
+a.services{
+color:rgba(255, 255, 255, 0.5) !important;
+}
+.name{
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.name-top-row{
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 1%;
+}
+
+.service-full-row{
+  background-color: #343a40 !important;
+}
+
+.services{
+  text-transform: uppercase;
+  line-height: 5em;
+
+}
+
+.area{
+  margin-bottom: 1%;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.top{
+  margin-top:1%;
+}
+
+.hct{
+  text-decoration: underline;
+}
+
+.carousel-inner > .carousel-item > img {
+    min-width: 100%;
+    max-height: 350px;
+}
+.skills{
+  text-align: left;
+
+}
+.skills >li{
+  margin-bottom:1%;
+
+
+}
+
+.slight-pop{
+  text-align: left;
+  margin-bottom: 1%;
+  padding-left: 1%;
+  padding-right:1%;
+}
+
+.posts{
+    list-style-type:none;
+text-align: center;
+    display: inline-block
+    }
+.p-item{
+  border:2px solid black;
+  font-size: 20px;
+  text-align: center;
+}
+
+.conact{
+  margin:0 auto;
+}
+
+
+
+
+  /*###############################
+    # BLOG-INDEX POST ITEMS BELOW #
+    ###############################*/
+.list-group-item{
+  background-color:#9ea3a8 !important;
+}
+.list-group-item > a{
+  color:black;
+}
+
+.post-list{
+  display: inline-block;
+
+  margin-bottom:5%;
+}
+.post-item{
+  text-align: left !important;
+}
+
+.services-list{
+  display: inline-block;
+
+  margin-bottom:5%;
+}
+.services-item{
+  text-align: left !important;
+}
+
+.services-intro{
+  font-weight: bold;
+}
+
+
+  /*###############
+    # POSTS BELOW #
+    ###############*/
+.article{
+  margin-left: 4%;
+  margin-right: 4%;
+
+}
+
+.date{
+    letter-spacing: 0.2rem;
+
+    margin-bottom: 3%;
+    text-transform: uppercase;
+}
+
+.article h2{
+  text-transform: capitalize;
+  font-size:2.0rem;
+}
+
+.main{
+  margin-bottom: 3%;
+}
+
+.center-normal-img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}

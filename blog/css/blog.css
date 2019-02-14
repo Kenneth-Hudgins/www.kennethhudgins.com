@@ -1,0 +1,133 @@
+/*#####################
+  # NAV & STUFF BELOW #
+  #####################*/
+body{
+background-color:#C3C7CB;
+}
+
+nav{
+  font-weight:bold;
+  font-family: Arial,verdana;
+}
+
+.container-fluid{
+  font-size:1.2em;
+}
+
+.navbar-brand{
+  color:rgba(255, 255, 255, 0.5) !important;
+  font-size:1.5em;
+}
+
+.navbar-brand:hover{
+    color:rgba(255, 255, 255, 0.75) !important;
+}
+
+.navbar{
+  min-height: 85px;
+  font-size:2em;
+  /*font-size: 2.3em;*/
+}
+
+.profile-pic{
+  /*95px*/
+  width:95px;
+  height:95px;
+  border-radius: 50%;
+  display:block;
+  margin:0 auto;
+}
+
+.top-row{
+background-color:#9ea3a8;
+}
+
+.name{
+  text-align: center;
+}
+.area{
+  margin-bottom: 1%;
+  text-align: center;
+}
+
+.top{
+  margin-top:0.5%;
+}
+
+.hct{
+  text-decoration: underline;
+}
+
+.carousel-inner > .carousel-item > img {
+    min-width: 100%;
+    max-height: 350px;
+}
+
+/*#####################
+  # NAV & STUFF ABOVE #
+  #####################*/
+
+
+  /*###############################
+    # BLOG-INDEX POST ITEMS BELOW #
+    ###############################*/
+.list-group-item{
+  background-color:#9ea3a8 !important;
+}
+.list-group-item > a{
+  color:black;
+}
+
+.post-list{
+  display: inline-block;
+
+  margin-bottom:5%;
+}
+.post-item{
+  text-align: left !important;
+}
+
+
+  /*###############
+    # POSTS BELOW #
+    ###############*/
+.article{
+  margin-left: 4%;
+  margin-right: 4%;
+
+}
+
+.date{
+    letter-spacing: 0.2rem;
+
+    margin-bottom: 3%;
+    text-transform: uppercase;
+}
+
+.article h2{
+  text-transform: capitalize;
+  font-size:2.0rem;
+}
+
+.main{
+  margin-bottom: 3%;
+}
+
+.center-normal-img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+figcaption{
+  text-align: center;
+}
+
+
+/*###############
+  # CONTACT BELOW #
+  ###############*/
+.conact{
+  margin:0 auto;
+}
