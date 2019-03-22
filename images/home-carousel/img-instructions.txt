@@ -1,1 +1,3 @@
 Images should be landscape and downsized to 900px by 506px useing microsoft paint to resize the picture.
+
+DO NOT FOLLOW THESE INSTRUCTIONS
